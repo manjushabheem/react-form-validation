@@ -1,0 +1,13 @@
+.App {
+	/* height: 100vh; */
+	width: 50%;
+	display: flex;
+	color:#59a3c7;
+  }
+  
+
+.demoForm {
+	width: 500px;
+	margin: auto;
+	background-color: #59a3c7;
+}
